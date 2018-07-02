@@ -1,0 +1,1 @@
+[('the', 71), ('to', 34), ('we', 31), ('and', 22), ('data', 14), ('our', 13), ('of', 10), ('patient', 10), ('inventory', 10), ('customer', 9), ('clients', 8), ('they', 8), ('medical', 8), ('client', 8), ('patients', 8), ('my', 7), ('want', 7), ('as', 7), ('project', 7), ('documents', 6)]
